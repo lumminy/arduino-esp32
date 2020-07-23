@@ -1,3 +1,6 @@
 [submodule "libraries/TinyGSM"]
 	path = libraries/TinyGSM
 	url = https://github.com/vshymanskyy/TinyGSM
+[submodule "libraries/PubSubClient"]
+	path = libraries/PubSubClient
+	url = https://github.com/knolleary/pubsubclient
