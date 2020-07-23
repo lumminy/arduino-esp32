@@ -1,6 +1,3 @@
-[submodule "libraries/AzureIoT"]
-	path = libraries/AzureIoT
-	url = https://github.com/VSChina/ESP32_AzureIoT_Arduino
 [submodule "libraries/TinyGSM"]
 	path = libraries/TinyGSM
 	url = https://github.com/vshymanskyy/TinyGSM
