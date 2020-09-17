@@ -4,3 +4,6 @@
 [submodule "libraries/PubSubClient"]
 	path = libraries/PubSubClient
 	url = https://github.com/knolleary/pubsubclient
+[submodule "libraries/esp32ModbusRTU"]
+	path = libraries/esp32ModbusRTU
+	url = https://github.com/lumminy/esp32ModbusRTU
